@@ -1,2 +1,3 @@
 # Word-Query
-Creates a cross reference list of the words in a file so you can query the words to see where they appear in the file.
+Creates a cross reference list of the words used in a file. You can query a word to see which line number(s) and place in the line where 
+the word appears. Uses a binary tree and hash table to implement the process.
